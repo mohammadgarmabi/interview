@@ -1,11 +1,14 @@
-import HorizontalLinearStepper from "./Stepper";
 import { Box, Container } from "@mui/material";
+
+// import HorizontalLinearStepper from "./Project-1/Stepper";
+// import RenderingComponent from "./Project-2/Parent";
 
 function App() {
   return (
     <Container>
       <Box mt={3}>
-        <HorizontalLinearStepper />
+        {/* <HorizontalLinearStepper /> */}
+        {/* <RenderingComponent /> */}
       </Box>
     </Container>
   );
